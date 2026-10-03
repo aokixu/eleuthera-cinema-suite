@@ -70,3 +70,25 @@ Desarrollado por **Team Eleuthera — Francisco Contreras**.
 ---
 
 Eleuthera Cinema Suite Profesional no pretende sustituir de inmediato décadas de desarrollo de otras herramientas de producción; su propósito es construir una alternativa integrada, accesible y útil para flujos reales de producción cinematográfica.
+
+## Capturas de Eleuthera
+
+A continuación se muestra Eleuthera Cinema Suite Profesional en funcionamiento con distintas áreas y herramientas de la suite.
+
+<table>
+<tr><td><img src="assets/screenshots/1.png" alt="Eleuthera captura 1"></td><td><img src="assets/screenshots/2.png" alt="Eleuthera captura 2"></td></tr>
+<tr><td><img src="assets/screenshots/3.png" alt="Eleuthera captura 3"></td><td><img src="assets/screenshots/4.png" alt="Eleuthera captura 4"></td></tr>
+<tr><td><img src="assets/screenshots/5.png" alt="Eleuthera captura 5"></td><td><img src="assets/screenshots/6.png" alt="Eleuthera captura 6"></td></tr>
+<tr><td><img src="assets/screenshots/7.png" alt="Eleuthera captura 7"></td><td><img src="assets/screenshots/8.png" alt="Eleuthera captura 8"></td></tr>
+<tr><td><img src="assets/screenshots/9.png" alt="Eleuthera captura 9"></td><td><img src="assets/screenshots/10.png" alt="Eleuthera captura 10"></td></tr>
+<tr><td><img src="assets/screenshots/11.png" alt="Eleuthera captura 11"></td><td><img src="assets/screenshots/12.png" alt="Eleuthera captura 12"></td></tr>
+<tr><td><img src="assets/screenshots/13.png" alt="Eleuthera captura 13"></td><td><img src="assets/screenshots/14.png" alt="Eleuthera captura 14"></td></tr>
+<tr><td><img src="assets/screenshots/15.png" alt="Eleuthera captura 15"></td><td><img src="assets/screenshots/16.png" alt="Eleuthera captura 16"></td></tr>
+<tr><td><img src="assets/screenshots/17.png" alt="Eleuthera captura 17"></td><td><img src="assets/screenshots/18.png" alt="Eleuthera captura 18"></td></tr>
+<tr><td><img src="assets/screenshots/19.png" alt="Eleuthera captura 19"></td><td><img src="assets/screenshots/20.png" alt="Eleuthera captura 20"></td></tr>
+<tr><td><img src="assets/screenshots/21.png" alt="Eleuthera captura 21"></td><td><img src="assets/screenshots/22.png" alt="Eleuthera captura 22"></td></tr>
+<tr><td><img src="assets/screenshots/23.png" alt="Eleuthera captura 23"></td><td><img src="assets/screenshots/24.png" alt="Eleuthera captura 24"></td></tr>
+<tr><td><img src="assets/screenshots/25.png" alt="Eleuthera captura 25"></td><td><img src="assets/screenshots/26.png" alt="Eleuthera captura 26"></td></tr>
+<tr><td><img src="assets/screenshots/27.png" alt="Eleuthera captura 27"></td><td><img src="assets/screenshots/28.png" alt="Eleuthera captura 28"></td></tr>
+<tr><td colspan="2" align="center"><img src="assets/screenshots/29.png" alt="Eleuthera captura 29"></td></tr>
+</table>
