@@ -25,7 +25,7 @@ El objetivo del repositorio público es permitir pruebas, revisión de código y
 - pypdf
 - openpyxl
 - NumPy
-- sounddevice
+
 
 Consulta `requirements.txt` para las dependencias exactas del proyecto.
 
