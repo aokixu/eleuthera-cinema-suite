@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Runtime / local state
+.runtime/
+*.log
+test-results/
+
+# Build / packaging
+build/
+dist/
+*.spec
+*.exe
+*.msi
+*.zip
+
+# Private licensing material — NEVER commit
+private_key.pem
+*.pem
+*.key
+*.ecplic
+privado-pro/
+generador_licencias_pro.py
+preparar_licencias_pro.py
+requirements-licencias-pro.txt
+build_professional_plus_licenciado.py
+build_professional_plus_licenciado_pyinstaller.py
+professional_licensed_main.py
+
+# Environment / secrets
+.env
+.env.*
+!.env.example

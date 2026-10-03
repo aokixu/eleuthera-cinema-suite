@@ -1,0 +1,16 @@
+ELEUTHERA PLUS v11 — MOTOR COMÚN DE PLANTILLAS
+
+- Nuevo motor compartido: eleuthera_spreadsheet.py
+- Mapa libre/Plantilla y las 20 fichas de estructuras usan EleutheraSpreadsheet.
+- Hoja y editor blancos; color de texto de celda respetado durante edición.
+- Selección con contorno petróleo #17616A, sin relleno oscuro.
+- Copiar/pegar y Delete/Backspace centralizados.
+- Combinar 1x1 se ignora sin warning.
+- Separar usa removeSpan().
+- Spans únicos al guardar/exportar.
+- Nueva plantilla elimina spans anteriores.
+- Bordes conservan persistencia/exportación.
+
+VALIDACIÓN
+- compileall de todos los .py: OK.
+- PySide6 no está instalado en este entorno; probar GUI con Python antes de compilar.

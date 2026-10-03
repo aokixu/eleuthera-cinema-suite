@@ -1,0 +1,12 @@
+ELEUTHERA PLUS — REORGANIZACIÓN DE PLANTILLAS
+
+- Mapa libre / Plantilla como selector visual.
+- Herramientas reorganizadas por contexto sin eliminar funciones.
+- Plantilla libre clara tipo Excel dentro del tema oscuro.
+- Encabezados claros, cuadrícula gris y selección petróleo.
+- Maximizar / Restaurar hoja.
+- Bordes visibles y conservados para exportación Excel.
+- Las 20 fichas profesionales de estructuras usan superficie clara tipo Excel.
+- Corregido desfase de columnas al guardar campos de ficha estructural.
+
+Validación: todos los .py compilan. Las pruebas funcionales no pudieron ejecutarse aquí porque PySide6 no está instalado en este runtime.

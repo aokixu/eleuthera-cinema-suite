@@ -1,0 +1,5 @@
+ELEUTHERA PLUS v12 — HOJAS ESTRUCTURADAS UNIFICADAS
+
+5 revisiones: compileall OK; integración de señales revisada; estilos antiguos revisados; AST de todos los .py OK; protecciones de modo structured revisadas.
+
+Cambios: EleutheraSpreadsheet free/structured; Desglose, Presupuesto y Plan de rodaje usan structured; hoja clara y selección petróleo; se conserva lógica específica; pegar no expande esquema; Delete respeta no-editables; merge/unmerge bloqueado en structured.

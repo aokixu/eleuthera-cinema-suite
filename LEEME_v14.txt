@@ -1,0 +1,25 @@
+ELEUTHERA PROFESSIONAL PLUS v14 — ESPAÑOL / ENGLISH
+
+VERSIONES
+• Directa: abre sin activación.
+• Licenciada: conserva la activación offline y la clave pública existente; requiere una licencia válida.
+
+USO
+1. Extrae el ZIP completo.
+2. Abre el .exe dentro de su carpeta.
+3. Conserva la carpeta _internal junto al ejecutable. No copies solo el .exe.
+4. Usa el menú superior Idioma / Language para elegir Español o English.
+La preferencia se guarda para el siguiente inicio. El contenido del guion y los datos del proyecto conservan sus valores originales.
+
+Se mantienen el cursor amarillo con parpadeo, la actualización optimizada de colores y la exportación Excel general del proyecto.
+
+COMPILACIÓN
+PyInstaller 6.22.2, Python 3.14 y PySide6 6.11.2. Distribuciones de carpeta, sin consola. No necesitan Python ni Nuitka instalados en el equipo de uso.
+Para volver a compilar desde el código fuente: python build_v14_pyinstaller.py
+
+VALIDACIÓN
+• Ambos ejecutables: inicio, español/inglés, valores internos, proyecto sin modificaciones al cambiar idioma, PDF, Excel, iconos y clave pública.
+• Preferencia de idioma persistente entre procesos.
+• Siete escenarios de integración de presupuesto en español y en inglés.
+• Entrada licenciada: no inicia la aplicación cuando no se acepta la activación. Las licencias inválidas se rechazan. No se realizó una activación real con una nueva licencia.
+• Dos pruebas antiguas (verify_suite.py, cambio de moneda; verify_workflow.py, retorno de new_document) fallan de la misma forma en v12 y v14. No se atribuyen al cambio de idioma.
